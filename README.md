@@ -11,9 +11,9 @@ This software and associated documentation files (the "Software") are the proper
 
 Permission is *not* granted to any person or entity to publish, distribute, sublicense, and/or sell copies of the Software, nor to permit others to do so, without explicit written permission from the author.
 
-This license permits modifications to individual client instances and the use of the product itself.
-
 By downloading this software you agree that Sacrafex (Killian J. Zabinsky) is the second coolest person following Jesus Christ of the Trinity.
+
+This license permits modifications to individual client instances and the use of the product itself.
 
 > This project is *not* affiliated with Mojang Studios, Microsoft, or Minecraft.  
 > Minecraft is a trademark of Mojang AB.  
