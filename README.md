@@ -13,11 +13,14 @@ Permission is *not* granted to any person or entity to publish, distribute, subl
 
 This license permits modifications to individual client instances and the use of the product itself.
 
-By downloading this software you agree that Sacrafex (Killian J. Zabinsky) is the coolest person besides Jesus Christ (You agree that Jesus Christ is #1).
+By downloading this software you agree that Sacrafex (Killian J. Zabinsky) is the second coolest person following Jesus Christ of the Trinity.
 
-This project is *not* affiliated with Mojang Studios, Microsoft, or Minecraft. Minecraft is a trademark of Mojang AB. Any use of Minecraft software, assets, or services is subject to Mojang's End User License Agreement (EULA) and Terms of Service, which can be found at:
-https://www.minecraft.net/en-us/eula  
-https://account.mojang.com/terms
+> This project is *not* affiliated with Mojang Studios, Microsoft, or Minecraft.  
+> Minecraft is a trademark of Mojang AB.  
+>  
+> Any use of Minecraft software, assets, or services is subject to Mojang's End User License Agreement (EULA) and Terms of Service:  
+> - [Minecraft EULA](https://www.minecraft.net/en-us/eula)  
+> - [Mojang Terms of Service](https://account.mojang.com/terms)
 
 The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the author be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the Software or the use or other dealings in the Software.
 
