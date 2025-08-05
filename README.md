@@ -21,8 +21,6 @@ https://account.mojang.com/terms
 
 The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the author be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the Software or the use or other dealings in the Software.
 
-For permissions or inquiries, contact: [https://github.com/kjzabinsky](https://github.com/kjzabinsky)
-
 ## Download Information
 
 Not written yet.
